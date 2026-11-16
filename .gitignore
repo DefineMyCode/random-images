@@ -1,0 +1,15 @@
+# CodeArts / IDE workspace files
+.arts/
+.codeartsdoer/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
